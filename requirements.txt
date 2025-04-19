@@ -1,0 +1,8 @@
+openai-whisper>=20230420
+torch>=2.0.0
+googletrans==4.0.0-rc1
+requests>=2.28.1
+flask>=2.2.3
+fpdf>=1.7.2
+pytest>=7.1.2
+pyinstaller>=5.0.0
