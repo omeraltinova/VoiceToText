@@ -1,0 +1,5 @@
+# Ignore generated audio and export files
+output.wav
+*.txt
+*.csv
+*.pdf
